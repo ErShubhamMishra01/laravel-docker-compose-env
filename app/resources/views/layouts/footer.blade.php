@@ -1,0 +1,1 @@
+<h1 style="background: blue">Footer</h1>
